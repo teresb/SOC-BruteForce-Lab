@@ -1,0 +1,20 @@
+Incident Report: Brute-Force Attack Simulation
+
+Date: [Today's Date]
+
+Summary:
+Multiple failed login attempts were detected on the admin account.
+
+Details:
+- Target Account: admin
+- Number of Failed Attempts: 3+
+- Attack Type: Brute-force attack
+- Source IPs: Multiple
+
+Impact:
+Potential unauthorized access attempt.
+
+Recommendation:
+- Implement account lockout policy
+- Enable multi-factor authentication (MFA)
+- Monitor repeated login failures
